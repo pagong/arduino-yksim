@@ -5,7 +5,7 @@ examples
 yksEEinit#
 ----------
 
-Change the AES-128 key, the public and private ids and the static password to your personal linkings (and keep them private).
+Change the AES-128 key, the public and private ids and the static password to your personal likings (and keep them private).
 Upload the code to your Arduino Leonardo to initialize the EEPROM. This needs to be done only once.
 
 
@@ -23,5 +23,5 @@ yksLCD1
 
 Upload this code into your Leonardo and stack a "LCD + keypad" shield onto the Arduino.
 Besides working as an USB keyboard the display allows for an offline mode of operation.
-This might be useful on systems that don't have any usable USB ports ...
+This might be useful with systems that don't have any usable USB ports ...
 
