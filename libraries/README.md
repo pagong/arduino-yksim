@@ -32,5 +32,5 @@ YkSim
 These are the glue functions that make the Yubikey simulator work.
 They're used by the example files which can be found in the examples/YKS directory.
 
-They've been written and released with a GNU license by [pagong]<pa90n9@gmail.com>.
+They've been written and released with a GNU license by [pagong](mailto:pa90n9@gmail.com).
 
