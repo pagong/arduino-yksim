@@ -18,6 +18,9 @@ This is a clever new timer library for the Arduino which can be downloaded
 from [arduino-softtimer](http://code.google.com/p/arduino-softtimer/).
 I've only included those parts that are actually needed by the Yubikey simulator.
 
+2019: `arduino-softtimer` has moved from google code to 
+[github](https://github.com/prampec/arduino-softtimer).
+
 
 LiquidCrystal
 -------------
