@@ -1,3 +1,5 @@
+:exclamation: This repository has been archived. Please see [arduino2-yksim](https://github.com/pagong/arduino2-yksim) for it's successor!
+
 arduino-yksim
 =============
 
